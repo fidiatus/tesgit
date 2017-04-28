@@ -1,0 +1,18 @@
+============= Biodata Mahasiswa ===============
+1. Nama Lengkap		: Fidiatus Sakinah
+2. Paggilan 		: Fidi
+3. Tempat,Tanggal Lahir	: Pariaman, 11 April 1996
+4. Jenis Kelamin		: Perempuan
+5. Golongan Darah		: O
+6. Alamat			: Desa talago Sarik Kota Pariaman Provinsi Sumatera Barat
+7. Email			: fidiatussakinah@gmail.com
+8. Github			: gtihub.com/fidiatus
+9. NIM			: 1401092001
+10. Program Studi		: D3 Manajemen Informatika
+11. Jurusan 		: Teknologi Informasi
+
+============= Riwayat Pendidikan ===============
+1. SDN 03 Talago Sarik
+2. SMPN 4 Pariaman
+3. SMAN5 Pariaman
+4. Politeknik Negeri Padang
